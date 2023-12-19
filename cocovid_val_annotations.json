@@ -1,0 +1,2218 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "can"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "name": "230419_154310"
+        },
+        {
+            "id": 2,
+            "name": "230419_161944"
+        },
+        {
+            "id": 3,
+            "name": "230419_162901"
+        },
+        {
+            "id": 4,
+            "name": "230419_180404"
+        },
+        {
+            "id": 5,
+            "name": "230419_180612"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_0.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 0
+        },
+        {
+            "id": 2,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_1.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 1
+        },
+        {
+            "id": 3,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_2.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 2
+        },
+        {
+            "id": 4,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_3.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 3
+        },
+        {
+            "id": 5,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_4.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 4
+        },
+        {
+            "id": 6,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_5.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 5
+        },
+        {
+            "id": 7,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_6.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 6
+        },
+        {
+            "id": 8,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_7.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 7
+        },
+        {
+            "id": 9,
+            "file_name": "resized_dataset/val/230419_154310/230419_154310frame_8.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 1,
+            "frame_id": 8
+        },
+        {
+            "id": 10,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_0.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 0
+        },
+        {
+            "id": 11,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_1.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 1
+        },
+        {
+            "id": 12,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_2.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 2
+        },
+        {
+            "id": 13,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_3.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 3
+        },
+        {
+            "id": 14,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_4.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 4
+        },
+        {
+            "id": 15,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_5.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 5
+        },
+        {
+            "id": 16,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_6.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 6
+        },
+        {
+            "id": 17,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_7.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 7
+        },
+        {
+            "id": 18,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_8.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 8
+        },
+        {
+            "id": 19,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_9.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 9
+        },
+        {
+            "id": 20,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_10.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 10
+        },
+        {
+            "id": 21,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_11.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 11
+        },
+        {
+            "id": 22,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_12.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 12
+        },
+        {
+            "id": 23,
+            "file_name": "resized_dataset/val/230419_161944/230419_161944frame_13.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 2,
+            "frame_id": 13
+        },
+        {
+            "id": 24,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_0.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 0
+        },
+        {
+            "id": 25,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_1.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 1
+        },
+        {
+            "id": 26,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_2.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 2
+        },
+        {
+            "id": 27,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_3.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 3
+        },
+        {
+            "id": 28,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_4.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 4
+        },
+        {
+            "id": 29,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_5.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 5
+        },
+        {
+            "id": 30,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_6.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 6
+        },
+        {
+            "id": 31,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_7.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 7
+        },
+        {
+            "id": 32,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_8.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 8
+        },
+        {
+            "id": 33,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_9.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 9
+        },
+        {
+            "id": 34,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_10.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 10
+        },
+        {
+            "id": 35,
+            "file_name": "resized_dataset/val/230419_162901/230419_162901frame_11.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 3,
+            "frame_id": 11
+        },
+        {
+            "id": 36,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_0.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 0
+        },
+        {
+            "id": 37,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_1.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 1
+        },
+        {
+            "id": 38,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_2.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 2
+        },
+        {
+            "id": 39,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_3.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 3
+        },
+        {
+            "id": 40,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_4.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 4
+        },
+        {
+            "id": 41,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_5.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 5
+        },
+        {
+            "id": 42,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_6.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 6
+        },
+        {
+            "id": 43,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_7.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 7
+        },
+        {
+            "id": 44,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_8.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 8
+        },
+        {
+            "id": 45,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_9.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 9
+        },
+        {
+            "id": 46,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_10.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 10
+        },
+        {
+            "id": 47,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_11.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 11
+        },
+        {
+            "id": 48,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_12.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 12
+        },
+        {
+            "id": 49,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_13.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 13
+        },
+        {
+            "id": 50,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_14.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 14
+        },
+        {
+            "id": 51,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_15.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 15
+        },
+        {
+            "id": 52,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_16.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 16
+        },
+        {
+            "id": 53,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_17.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 17
+        },
+        {
+            "id": 54,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_18.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 18
+        },
+        {
+            "id": 55,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_19.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 19
+        },
+        {
+            "id": 56,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_20.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 20
+        },
+        {
+            "id": 57,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_21.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 21
+        },
+        {
+            "id": 58,
+            "file_name": "resized_dataset/val/230419_180404/230419_180404frame_22.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 4,
+            "frame_id": 22
+        },
+        {
+            "id": 59,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_0.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 0
+        },
+        {
+            "id": 60,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_1.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 1
+        },
+        {
+            "id": 61,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_2.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 2
+        },
+        {
+            "id": 62,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_3.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 3
+        },
+        {
+            "id": 63,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_4.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 4
+        },
+        {
+            "id": 64,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_5.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 5
+        },
+        {
+            "id": 65,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_6.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 6
+        },
+        {
+            "id": 66,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_7.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 7
+        },
+        {
+            "id": 67,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_8.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 8
+        },
+        {
+            "id": 68,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_9.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 9
+        },
+        {
+            "id": 69,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_10.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 10
+        },
+        {
+            "id": 70,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_11.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 11
+        },
+        {
+            "id": 71,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_12.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 12
+        },
+        {
+            "id": 72,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_13.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 13
+        },
+        {
+            "id": 73,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_14.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 14
+        },
+        {
+            "id": 74,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_15.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 15
+        },
+        {
+            "id": 75,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_16.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 16
+        },
+        {
+            "id": 76,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_17.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 17
+        },
+        {
+            "id": 77,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_18.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 18
+        },
+        {
+            "id": 78,
+            "file_name": "resized_dataset/val/230419_180612/230419_180612frame_19.png",
+            "width": 1000,
+            "height": 1000,
+            "video_id": 5,
+            "frame_id": 19
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 0,
+            "bbox": [
+                507.8125,
+                209.9609375,
+                21.484375,
+                15.625
+            ],
+            "area": 335.693359375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 1,
+            "bbox": [
+                467.7734375,
+                205.078125,
+                19.53125,
+                16.6015625
+            ],
+            "area": 324.249267578125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 2,
+            "bbox": [
+                437.5,
+                182.6171875,
+                20.5078125,
+                19.53125
+            ],
+            "area": 400.543212890625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 3,
+            "bbox": [
+                396.484375,
+                143.5546875,
+                23.4375,
+                13.671875
+            ],
+            "area": 320.4345703125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 4,
+            "bbox": [
+                350.5859375,
+                103.515625,
+                26.3671875,
+                13.671875
+            ],
+            "area": 360.4888916015625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 5,
+            "bbox": [
+                314.453125,
+                72.265625,
+                19.53125,
+                14.6484375
+            ],
+            "area": 286.102294921875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 6,
+            "bbox": [
+                274.4140625,
+                65.4296875,
+                23.4375,
+                11.71875
+            ],
+            "area": 274.658203125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 7,
+            "bbox": [
+                189.453125,
+                56.640625,
+                20.5078125,
+                10.7421875
+            ],
+            "area": 220.29876708984375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "video_id": 1,
+            "category_id": 1,
+            "instance_id": 8,
+            "bbox": [
+                161.1328125,
+                80.078125,
+                14.6484375,
+                15.625
+            ],
+            "area": 228.8818359375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 0,
+            "bbox": [
+                496.09375,
+                318.359375,
+                21.484375,
+                30.2734375
+            ],
+            "area": 650.4058837890625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 1,
+            "bbox": [
+                493.1640625,
+                295.8984375,
+                20.5078125,
+                20.5078125
+            ],
+            "area": 420.57037353515625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 2,
+            "bbox": [
+                479.4921875,
+                270.5078125,
+                20.5078125,
+                26.3671875
+            ],
+            "area": 540.7333374023438,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 3,
+            "bbox": [
+                463.8671875,
+                248.046875,
+                17.578125,
+                21.484375
+            ],
+            "area": 377.655029296875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 4,
+            "bbox": [
+                431.640625,
+                235.3515625,
+                21.484375,
+                18.5546875
+            ],
+            "area": 398.6358642578125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 5,
+            "bbox": [
+                402.34375,
+                209.9609375,
+                22.4609375,
+                25.390625
+            ],
+            "area": 570.2972412109375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 6,
+            "bbox": [
+                373.046875,
+                167.96875,
+                22.4609375,
+                21.484375
+            ],
+            "area": 482.5592041015625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 7,
+            "bbox": [
+                345.703125,
+                141.6015625,
+                16.6015625,
+                15.625
+            ],
+            "area": 259.3994140625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 8,
+            "bbox": [
+                313.4765625,
+                125.9765625,
+                26.3671875,
+                15.625
+            ],
+            "area": 411.9873046875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 9,
+            "bbox": [
+                298.828125,
+                116.2109375,
+                18.5546875,
+                16.6015625
+            ],
+            "area": 308.03680419921875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 10,
+            "bbox": [
+                263.671875,
+                110.3515625,
+                23.4375,
+                9.765625
+            ],
+            "area": 228.8818359375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 21,
+            "image_id": 21,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 11,
+            "bbox": [
+                231.4453125,
+                107.421875,
+                23.4375,
+                12.6953125
+            ],
+            "area": 297.54638671875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 12,
+            "bbox": [
+                200.1953125,
+                104.4921875,
+                23.4375,
+                11.71875
+            ],
+            "area": 274.658203125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 23,
+            "image_id": 23,
+            "video_id": 2,
+            "category_id": 1,
+            "instance_id": 13,
+            "bbox": [
+                163.0859375,
+                110.3515625,
+                14.6484375,
+                8.7890625
+            ],
+            "area": 128.74603271484375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 24,
+            "image_id": 24,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 0,
+            "bbox": [
+                487.3046875,
+                289.0625,
+                13.671875,
+                21.484375
+            ],
+            "area": 293.731689453125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 1,
+            "bbox": [
+                479.4921875,
+                254.8828125,
+                15.625,
+                20.5078125
+            ],
+            "area": 320.4345703125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 26,
+            "image_id": 26,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 2,
+            "bbox": [
+                460.9375,
+                237.3046875,
+                16.6015625,
+                22.4609375
+            ],
+            "area": 372.88665771484375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 3,
+            "bbox": [
+                431.640625,
+                207.03125,
+                13.671875,
+                23.4375
+            ],
+            "area": 320.4345703125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 28,
+            "image_id": 28,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 4,
+            "bbox": [
+                411.1328125,
+                174.8046875,
+                19.53125,
+                22.4609375
+            ],
+            "area": 438.690185546875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 5,
+            "bbox": [
+                381.8359375,
+                130.859375,
+                18.5546875,
+                20.5078125
+            ],
+            "area": 380.51605224609375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 6,
+            "bbox": [
+                360.3515625,
+                102.5390625,
+                16.6015625,
+                18.5546875
+            ],
+            "area": 308.03680419921875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 7,
+            "bbox": [
+                335.9375,
+                82.03125,
+                19.53125,
+                13.671875
+            ],
+            "area": 267.02880859375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 32,
+            "image_id": 32,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 8,
+            "bbox": [
+                313.4765625,
+                70.3125,
+                23.4375,
+                13.671875
+            ],
+            "area": 320.4345703125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 9,
+            "bbox": [
+                292.96875,
+                46.875,
+                22.4609375,
+                16.6015625
+            ],
+            "area": 372.88665771484375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 34,
+            "image_id": 34,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 10,
+            "bbox": [
+                259.765625,
+                43.9453125,
+                25.390625,
+                8.7890625
+            ],
+            "area": 223.1597900390625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 35,
+            "image_id": 35,
+            "video_id": 3,
+            "category_id": 1,
+            "instance_id": 11,
+            "bbox": [
+                233.3984375,
+                36.1328125,
+                29.296875,
+                12.6953125
+            ],
+            "area": 371.9329833984375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 36,
+            "image_id": 36,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 0,
+            "bbox": [
+                606.4453125,
+                594.7265625,
+                13.671875,
+                28.3203125
+            ],
+            "area": 387.1917724609375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 37,
+            "image_id": 37,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 1,
+            "bbox": [
+                600.5859375,
+                585.9375,
+                22.4609375,
+                22.4609375
+            ],
+            "area": 504.49371337890625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 2,
+            "bbox": [
+                592.7734375,
+                572.265625,
+                15.625,
+                28.3203125
+            ],
+            "area": 442.5048828125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 3,
+            "bbox": [
+                587.890625,
+                542.96875,
+                15.625,
+                25.390625
+            ],
+            "area": 396.728515625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 4,
+            "bbox": [
+                597.65625,
+                518.5546875,
+                10.7421875,
+                27.34375
+            ],
+            "area": 293.731689453125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 5,
+            "bbox": [
+                608.3984375,
+                490.234375,
+                9.765625,
+                22.4609375
+            ],
+            "area": 219.3450927734375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 42,
+            "image_id": 42,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 6,
+            "bbox": [
+                616.2109375,
+                460.9375,
+                10.7421875,
+                27.34375
+            ],
+            "area": 293.731689453125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 43,
+            "image_id": 43,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 7,
+            "bbox": [
+                631.8359375,
+                422.8515625,
+                8.7890625,
+                30.2734375
+            ],
+            "area": 266.07513427734375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 44,
+            "image_id": 44,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 8,
+            "bbox": [
+                629.8828125,
+                369.140625,
+                9.765625,
+                26.3671875
+            ],
+            "area": 257.4920654296875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 9,
+            "bbox": [
+                607.421875,
+                299.8046875,
+                14.6484375,
+                28.3203125
+            ],
+            "area": 414.84832763671875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 10,
+            "bbox": [
+                594.7265625,
+                269.53125,
+                16.6015625,
+                26.3671875
+            ],
+            "area": 437.73651123046875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 47,
+            "image_id": 47,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 11,
+            "bbox": [
+                563.4765625,
+                222.65625,
+                19.53125,
+                32.2265625
+            ],
+            "area": 629.425048828125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 12,
+            "bbox": [
+                546.875,
+                195.3125,
+                18.5546875,
+                27.34375
+            ],
+            "area": 507.354736328125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 49,
+            "image_id": 49,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 13,
+            "bbox": [
+                532.2265625,
+                187.5,
+                18.5546875,
+                22.4609375
+            ],
+            "area": 416.75567626953125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 50,
+            "image_id": 50,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 14,
+            "bbox": [
+                526.3671875,
+                184.5703125,
+                21.484375,
+                25.390625
+            ],
+            "area": 545.501708984375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 51,
+            "image_id": 51,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 15,
+            "bbox": [
+                515.625,
+                180.6640625,
+                23.4375,
+                21.484375
+            ],
+            "area": 503.5400390625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 52,
+            "image_id": 52,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 16,
+            "bbox": [
+                500.0,
+                169.921875,
+                25.390625,
+                20.5078125
+            ],
+            "area": 520.7061767578125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 53,
+            "image_id": 53,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 17,
+            "bbox": [
+                485.3515625,
+                163.0859375,
+                16.6015625,
+                12.6953125
+            ],
+            "area": 210.76202392578125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 54,
+            "image_id": 54,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 18,
+            "bbox": [
+                453.125,
+                151.3671875,
+                27.34375,
+                12.6953125
+            ],
+            "area": 347.137451171875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 55,
+            "image_id": 55,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 19,
+            "bbox": [
+                416.9921875,
+                141.6015625,
+                27.34375,
+                14.6484375
+            ],
+            "area": 400.543212890625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 56,
+            "image_id": 56,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 20,
+            "bbox": [
+                360.3515625,
+                117.1875,
+                35.15625,
+                20.5078125
+            ],
+            "area": 720.977783203125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 57,
+            "image_id": 57,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 21,
+            "bbox": [
+                322.265625,
+                112.3046875,
+                21.484375,
+                12.6953125
+            ],
+            "area": 272.7508544921875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 58,
+            "image_id": 58,
+            "video_id": 4,
+            "category_id": 1,
+            "instance_id": 22,
+            "bbox": [
+                292.96875,
+                113.28125,
+                19.53125,
+                16.6015625
+            ],
+            "area": 324.249267578125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 59,
+            "image_id": 59,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 0,
+            "bbox": [
+                597.65625,
+                536.1328125,
+                10.7421875,
+                29.296875
+            ],
+            "area": 314.7125244140625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 60,
+            "image_id": 60,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 1,
+            "bbox": [
+                599.609375,
+                520.5078125,
+                14.6484375,
+                22.4609375
+            ],
+            "area": 329.01763916015625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 61,
+            "image_id": 61,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 2,
+            "bbox": [
+                610.3515625,
+                499.0234375,
+                12.6953125,
+                30.2734375
+            ],
+            "area": 384.33074951171875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 62,
+            "image_id": 62,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 3,
+            "bbox": [
+                620.1171875,
+                470.703125,
+                12.6953125,
+                27.34375
+            ],
+            "area": 347.137451171875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 63,
+            "image_id": 63,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 4,
+            "bbox": [
+                633.7890625,
+                443.359375,
+                10.7421875,
+                27.34375
+            ],
+            "area": 293.731689453125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 64,
+            "image_id": 64,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 5,
+            "bbox": [
+                640.625,
+                402.34375,
+                10.7421875,
+                25.390625
+            ],
+            "area": 272.7508544921875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 65,
+            "image_id": 65,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 6,
+            "bbox": [
+                628.90625,
+                348.6328125,
+                11.71875,
+                30.2734375
+            ],
+            "area": 354.766845703125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 66,
+            "image_id": 66,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 7,
+            "bbox": [
+                605.46875,
+                292.96875,
+                14.6484375,
+                29.296875
+            ],
+            "area": 429.1534423828125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 67,
+            "image_id": 67,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 8,
+            "bbox": [
+                597.65625,
+                262.6953125,
+                17.578125,
+                25.390625
+            ],
+            "area": 446.319580078125,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 68,
+            "image_id": 68,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 9,
+            "bbox": [
+                565.4296875,
+                222.65625,
+                18.5546875,
+                24.4140625
+            ],
+            "area": 452.99530029296875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 69,
+            "image_id": 69,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 10,
+            "bbox": [
+                545.8984375,
+                192.3828125,
+                14.6484375,
+                30.2734375
+            ],
+            "area": 443.45855712890625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 70,
+            "image_id": 70,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 11,
+            "bbox": [
+                527.34375,
+                177.734375,
+                22.4609375,
+                23.4375
+            ],
+            "area": 526.42822265625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 71,
+            "image_id": 71,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 12,
+            "bbox": [
+                521.484375,
+                186.5234375,
+                22.4609375,
+                21.484375
+            ],
+            "area": 482.5592041015625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 72,
+            "image_id": 72,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 13,
+            "bbox": [
+                507.8125,
+                176.7578125,
+                23.4375,
+                19.53125
+            ],
+            "area": 457.763671875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 73,
+            "image_id": 73,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 14,
+            "bbox": [
+                500.0,
+                174.8046875,
+                22.4609375,
+                20.5078125
+            ],
+            "area": 460.62469482421875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 74,
+            "image_id": 74,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 15,
+            "bbox": [
+                475.5859375,
+                172.8515625,
+                19.53125,
+                11.71875
+            ],
+            "area": 228.8818359375,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 75,
+            "image_id": 75,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 16,
+            "bbox": [
+                452.1484375,
+                164.0625,
+                23.4375,
+                7.8125
+            ],
+            "area": 183.10546875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 76,
+            "image_id": 76,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 17,
+            "bbox": [
+                412.109375,
+                165.0390625,
+                18.5546875,
+                10.7421875
+            ],
+            "area": 199.31793212890625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 77,
+            "image_id": 77,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 18,
+            "bbox": [
+                367.1875,
+                137.6953125,
+                17.578125,
+                14.6484375
+            ],
+            "area": 257.4920654296875,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        },
+        {
+            "id": 78,
+            "image_id": 78,
+            "video_id": 5,
+            "category_id": 1,
+            "instance_id": 19,
+            "bbox": [
+                323.2421875,
+                121.09375,
+                24.4140625,
+                16.6015625
+            ],
+            "area": 405.31158447265625,
+            "occluded": false,
+            "truncated": false,
+            "iscrowd": false,
+            "ignore": false,
+            "is_vid_train_frame": true,
+            "visibility": 1.0
+        }
+    ]
+}
